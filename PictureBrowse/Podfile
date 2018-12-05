@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+target "PictureBrowse" do
+pod 'AFNetworking'
+pod 'SDWebImage'
+end
